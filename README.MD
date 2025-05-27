@@ -93,9 +93,3 @@ fetch('/wp-json/views/v1/hit/meu-post', {
 ```
 
 * Em temas com cache agressivo, certifique-se de que a chamada seja feita do lado do cliente para registrar corretamente as visualizações.
-
----
-
-## 📃 Licença
-
-Este plugin está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
